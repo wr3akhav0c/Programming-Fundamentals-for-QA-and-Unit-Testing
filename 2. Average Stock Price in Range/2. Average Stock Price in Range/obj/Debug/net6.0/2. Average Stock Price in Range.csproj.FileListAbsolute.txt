@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\2. Average Stock Price in Range\2. Average Stock Price in Range\bin\Debug\net6.0\2. Average Stock Price in Range.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\2. Average Stock Price in Range\2. Average Stock Price in Range\bin\Debug\net6.0\2. Average Stock Price in Range.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\2. Average Stock Price in Range\2. Average Stock Price in Range\bin\Debug\net6.0\2. Average Stock Price in Range.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\2. Average Stock Price in Range\2. Average Stock Price in Range\bin\Debug\net6.0\2. Average Stock Price in Range.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\2. Average Stock Price in Range\2. Average Stock Price in Range\bin\Debug\net6.0\2. Average Stock Price in Range.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\2. Average Stock Price in Range\2. Average Stock Price in Range\obj\Debug\net6.0\2. Average Stock Price in Range.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\2. Average Stock Price in Range\2. Average Stock Price in Range\obj\Debug\net6.0\2. Average Stock Price in Range.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\2. Average Stock Price in Range\2. Average Stock Price in Range\obj\Debug\net6.0\2. Average Stock Price in Range.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\2. Average Stock Price in Range\2. Average Stock Price in Range\obj\Debug\net6.0\2. Average Stock Price in Range.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\2. Average Stock Price in Range\2. Average Stock Price in Range\obj\Debug\net6.0\2. Average Stock Price in Range.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\2. Average Stock Price in Range\2. Average Stock Price in Range\obj\Debug\net6.0\refint\2. Average Stock Price in Range.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\2. Average Stock Price in Range\2. Average Stock Price in Range\obj\Debug\net6.0\2. Average Stock Price in Range.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\2. Average Stock Price in Range\2. Average Stock Price in Range\obj\Debug\net6.0\2. Average Stock Price in Range.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\2. Average Stock Price in Range\2. Average Stock Price in Range\obj\Debug\net6.0\ref\2. Average Stock Price in Range.dll

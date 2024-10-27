@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 2. List of Products\Lists - 2. List of Products\bin\Debug\net6.0\Lists - 2. List of Products.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 2. List of Products\Lists - 2. List of Products\bin\Debug\net6.0\Lists - 2. List of Products.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 2. List of Products\Lists - 2. List of Products\bin\Debug\net6.0\Lists - 2. List of Products.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 2. List of Products\Lists - 2. List of Products\bin\Debug\net6.0\Lists - 2. List of Products.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 2. List of Products\Lists - 2. List of Products\bin\Debug\net6.0\Lists - 2. List of Products.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 2. List of Products\Lists - 2. List of Products\obj\Debug\net6.0\Lists - 2. List of Products.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 2. List of Products\Lists - 2. List of Products\obj\Debug\net6.0\Lists - 2. List of Products.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 2. List of Products\Lists - 2. List of Products\obj\Debug\net6.0\Lists - 2. List of Products.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 2. List of Products\Lists - 2. List of Products\obj\Debug\net6.0\Lists - 2. List of Products.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 2. List of Products\Lists - 2. List of Products\obj\Debug\net6.0\Lists - 2. List of Products.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 2. List of Products\Lists - 2. List of Products\obj\Debug\net6.0\refint\Lists - 2. List of Products.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 2. List of Products\Lists - 2. List of Products\obj\Debug\net6.0\Lists - 2. List of Products.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 2. List of Products\Lists - 2. List of Products\obj\Debug\net6.0\Lists - 2. List of Products.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 2. List of Products\Lists - 2. List of Products\obj\Debug\net6.0\ref\Lists - 2. List of Products.dll

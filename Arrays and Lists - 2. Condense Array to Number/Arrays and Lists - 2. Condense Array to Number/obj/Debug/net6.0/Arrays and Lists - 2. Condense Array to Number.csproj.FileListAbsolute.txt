@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 2. Condense Array to Number\Arrays and Lists - 2. Condense Array to Number\bin\Debug\net6.0\Arrays and Lists - 2. Condense Array to Number.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 2. Condense Array to Number\Arrays and Lists - 2. Condense Array to Number\bin\Debug\net6.0\Arrays and Lists - 2. Condense Array to Number.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 2. Condense Array to Number\Arrays and Lists - 2. Condense Array to Number\bin\Debug\net6.0\Arrays and Lists - 2. Condense Array to Number.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 2. Condense Array to Number\Arrays and Lists - 2. Condense Array to Number\bin\Debug\net6.0\Arrays and Lists - 2. Condense Array to Number.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 2. Condense Array to Number\Arrays and Lists - 2. Condense Array to Number\bin\Debug\net6.0\Arrays and Lists - 2. Condense Array to Number.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 2. Condense Array to Number\Arrays and Lists - 2. Condense Array to Number\obj\Debug\net6.0\Arrays and Lists - 2. Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 2. Condense Array to Number\Arrays and Lists - 2. Condense Array to Number\obj\Debug\net6.0\Arrays and Lists - 2. Condense Array to Number.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 2. Condense Array to Number\Arrays and Lists - 2. Condense Array to Number\obj\Debug\net6.0\Arrays and Lists - 2. Condense Array to Number.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 2. Condense Array to Number\Arrays and Lists - 2. Condense Array to Number\obj\Debug\net6.0\Arrays and Lists - 2. Condense Array to Number.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 2. Condense Array to Number\Arrays and Lists - 2. Condense Array to Number\obj\Debug\net6.0\Arrays and Lists - 2. Condense Array to Number.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 2. Condense Array to Number\Arrays and Lists - 2. Condense Array to Number\obj\Debug\net6.0\refint\Arrays and Lists - 2. Condense Array to Number.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 2. Condense Array to Number\Arrays and Lists - 2. Condense Array to Number\obj\Debug\net6.0\Arrays and Lists - 2. Condense Array to Number.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 2. Condense Array to Number\Arrays and Lists - 2. Condense Array to Number\obj\Debug\net6.0\Arrays and Lists - 2. Condense Array to Number.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 2. Condense Array to Number\Arrays and Lists - 2. Condense Array to Number\obj\Debug\net6.0\ref\Arrays and Lists - 2. Condense Array to Number.dll

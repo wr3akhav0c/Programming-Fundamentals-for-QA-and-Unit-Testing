@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 5. Repeat String\Methods - 5. Repeat String\bin\Debug\net6.0\Methods - 5. Repeat String.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 5. Repeat String\Methods - 5. Repeat String\bin\Debug\net6.0\Methods - 5. Repeat String.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 5. Repeat String\Methods - 5. Repeat String\bin\Debug\net6.0\Methods - 5. Repeat String.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 5. Repeat String\Methods - 5. Repeat String\bin\Debug\net6.0\Methods - 5. Repeat String.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 5. Repeat String\Methods - 5. Repeat String\bin\Debug\net6.0\Methods - 5. Repeat String.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 5. Repeat String\Methods - 5. Repeat String\obj\Debug\net6.0\Methods - 5. Repeat String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 5. Repeat String\Methods - 5. Repeat String\obj\Debug\net6.0\Methods - 5. Repeat String.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 5. Repeat String\Methods - 5. Repeat String\obj\Debug\net6.0\Methods - 5. Repeat String.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 5. Repeat String\Methods - 5. Repeat String\obj\Debug\net6.0\Methods - 5. Repeat String.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 5. Repeat String\Methods - 5. Repeat String\obj\Debug\net6.0\Methods - 5. Repeat String.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 5. Repeat String\Methods - 5. Repeat String\obj\Debug\net6.0\refint\Methods - 5. Repeat String.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 5. Repeat String\Methods - 5. Repeat String\obj\Debug\net6.0\Methods - 5. Repeat String.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 5. Repeat String\Methods - 5. Repeat String\obj\Debug\net6.0\Methods - 5. Repeat String.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 5. Repeat String\Methods - 5. Repeat String\obj\Debug\net6.0\ref\Methods - 5. Repeat String.dll

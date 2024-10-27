@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Loops - 06. Special Number\Loops - 06. Special Number\obj\Debug\net6.0\Loops - 06. Special Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Loops - 06. Special Number\Loops - 06. Special Number\obj\Debug\net6.0\Loops - 06. Special Number.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Loops - 06. Special Number\Loops - 06. Special Number\obj\Debug\net6.0\Loops - 06. Special Number.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Loops - 06. Special Number\Loops - 06. Special Number\obj\Debug\net6.0\Loops - 06. Special Number.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Loops - 06. Special Number\Loops - 06. Special Number\bin\Debug\net6.0\Loops - 06. Special Number.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Loops - 06. Special Number\Loops - 06. Special Number\bin\Debug\net6.0\Loops - 06. Special Number.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Loops - 06. Special Number\Loops - 06. Special Number\bin\Debug\net6.0\Loops - 06. Special Number.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Loops - 06. Special Number\Loops - 06. Special Number\bin\Debug\net6.0\Loops - 06. Special Number.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Loops - 06. Special Number\Loops - 06. Special Number\bin\Debug\net6.0\Loops - 06. Special Number.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Loops - 06. Special Number\Loops - 06. Special Number\obj\Debug\net6.0\Loops - 06. Special Number.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Loops - 06. Special Number\Loops - 06. Special Number\obj\Debug\net6.0\refint\Loops - 06. Special Number.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Loops - 06. Special Number\Loops - 06. Special Number\obj\Debug\net6.0\Loops - 06. Special Number.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Loops - 06. Special Number\Loops - 06. Special Number\obj\Debug\net6.0\Loops - 06. Special Number.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Loops - 06. Special Number\Loops - 06. Special Number\obj\Debug\net6.0\ref\Loops - 06. Special Number.dll

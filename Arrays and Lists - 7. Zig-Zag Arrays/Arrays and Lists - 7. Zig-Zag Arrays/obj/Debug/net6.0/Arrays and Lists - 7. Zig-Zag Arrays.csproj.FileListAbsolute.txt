@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 7. Zig-Zag Arrays\Arrays and Lists - 7. Zig-Zag Arrays\bin\Debug\net6.0\Arrays and Lists - 7. Zig-Zag Arrays.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 7. Zig-Zag Arrays\Arrays and Lists - 7. Zig-Zag Arrays\bin\Debug\net6.0\Arrays and Lists - 7. Zig-Zag Arrays.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 7. Zig-Zag Arrays\Arrays and Lists - 7. Zig-Zag Arrays\bin\Debug\net6.0\Arrays and Lists - 7. Zig-Zag Arrays.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 7. Zig-Zag Arrays\Arrays and Lists - 7. Zig-Zag Arrays\bin\Debug\net6.0\Arrays and Lists - 7. Zig-Zag Arrays.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 7. Zig-Zag Arrays\Arrays and Lists - 7. Zig-Zag Arrays\bin\Debug\net6.0\Arrays and Lists - 7. Zig-Zag Arrays.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 7. Zig-Zag Arrays\Arrays and Lists - 7. Zig-Zag Arrays\obj\Debug\net6.0\Arrays and Lists - 7. Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 7. Zig-Zag Arrays\Arrays and Lists - 7. Zig-Zag Arrays\obj\Debug\net6.0\Arrays and Lists - 7. Zig-Zag Arrays.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 7. Zig-Zag Arrays\Arrays and Lists - 7. Zig-Zag Arrays\obj\Debug\net6.0\Arrays and Lists - 7. Zig-Zag Arrays.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 7. Zig-Zag Arrays\Arrays and Lists - 7. Zig-Zag Arrays\obj\Debug\net6.0\Arrays and Lists - 7. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 7. Zig-Zag Arrays\Arrays and Lists - 7. Zig-Zag Arrays\obj\Debug\net6.0\Arrays and Lists - 7. Zig-Zag Arrays.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 7. Zig-Zag Arrays\Arrays and Lists - 7. Zig-Zag Arrays\obj\Debug\net6.0\refint\Arrays and Lists - 7. Zig-Zag Arrays.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 7. Zig-Zag Arrays\Arrays and Lists - 7. Zig-Zag Arrays\obj\Debug\net6.0\Arrays and Lists - 7. Zig-Zag Arrays.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 7. Zig-Zag Arrays\Arrays and Lists - 7. Zig-Zag Arrays\obj\Debug\net6.0\Arrays and Lists - 7. Zig-Zag Arrays.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 7. Zig-Zag Arrays\Arrays and Lists - 7. Zig-Zag Arrays\obj\Debug\net6.0\ref\Arrays and Lists - 7. Zig-Zag Arrays.dll

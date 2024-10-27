@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 03. Printing Triangle\Methods - 03. Printing Triangle\bin\Debug\net6.0\Methods - 03. Printing Triangle.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 03. Printing Triangle\Methods - 03. Printing Triangle\bin\Debug\net6.0\Methods - 03. Printing Triangle.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 03. Printing Triangle\Methods - 03. Printing Triangle\bin\Debug\net6.0\Methods - 03. Printing Triangle.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 03. Printing Triangle\Methods - 03. Printing Triangle\bin\Debug\net6.0\Methods - 03. Printing Triangle.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 03. Printing Triangle\Methods - 03. Printing Triangle\bin\Debug\net6.0\Methods - 03. Printing Triangle.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 03. Printing Triangle\Methods - 03. Printing Triangle\obj\Debug\net6.0\Methods - 03. Printing Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 03. Printing Triangle\Methods - 03. Printing Triangle\obj\Debug\net6.0\Methods - 03. Printing Triangle.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 03. Printing Triangle\Methods - 03. Printing Triangle\obj\Debug\net6.0\Methods - 03. Printing Triangle.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 03. Printing Triangle\Methods - 03. Printing Triangle\obj\Debug\net6.0\Methods - 03. Printing Triangle.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 03. Printing Triangle\Methods - 03. Printing Triangle\obj\Debug\net6.0\Methods - 03. Printing Triangle.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 03. Printing Triangle\Methods - 03. Printing Triangle\obj\Debug\net6.0\refint\Methods - 03. Printing Triangle.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 03. Printing Triangle\Methods - 03. Printing Triangle\obj\Debug\net6.0\Methods - 03. Printing Triangle.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 03. Printing Triangle\Methods - 03. Printing Triangle\obj\Debug\net6.0\Methods - 03. Printing Triangle.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 03. Printing Triangle\Methods - 03. Printing Triangle\obj\Debug\net6.0\ref\Methods - 03. Printing Triangle.dll

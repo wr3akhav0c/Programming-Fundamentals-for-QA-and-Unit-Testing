@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 6. Vowels Count\Ex NestedLoopsMethods 6. Vowels Count\obj\Debug\net6.0\Ex NestedLoopsMethods 6. Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 6. Vowels Count\Ex NestedLoopsMethods 6. Vowels Count\obj\Debug\net6.0\Ex NestedLoopsMethods 6. Vowels Count.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 6. Vowels Count\Ex NestedLoopsMethods 6. Vowels Count\obj\Debug\net6.0\Ex NestedLoopsMethods 6. Vowels Count.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 6. Vowels Count\Ex NestedLoopsMethods 6. Vowels Count\obj\Debug\net6.0\Ex NestedLoopsMethods 6. Vowels Count.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 6. Vowels Count\Ex NestedLoopsMethods 6. Vowels Count\bin\Debug\net6.0\Ex NestedLoopsMethods 6. Vowels Count.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 6. Vowels Count\Ex NestedLoopsMethods 6. Vowels Count\bin\Debug\net6.0\Ex NestedLoopsMethods 6. Vowels Count.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 6. Vowels Count\Ex NestedLoopsMethods 6. Vowels Count\bin\Debug\net6.0\Ex NestedLoopsMethods 6. Vowels Count.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 6. Vowels Count\Ex NestedLoopsMethods 6. Vowels Count\bin\Debug\net6.0\Ex NestedLoopsMethods 6. Vowels Count.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 6. Vowels Count\Ex NestedLoopsMethods 6. Vowels Count\bin\Debug\net6.0\Ex NestedLoopsMethods 6. Vowels Count.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 6. Vowels Count\Ex NestedLoopsMethods 6. Vowels Count\obj\Debug\net6.0\Ex NestedLoopsMethods 6. Vowels Count.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 6. Vowels Count\Ex NestedLoopsMethods 6. Vowels Count\obj\Debug\net6.0\refint\Ex NestedLoopsMethods 6. Vowels Count.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 6. Vowels Count\Ex NestedLoopsMethods 6. Vowels Count\obj\Debug\net6.0\Ex NestedLoopsMethods 6. Vowels Count.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 6. Vowels Count\Ex NestedLoopsMethods 6. Vowels Count\obj\Debug\net6.0\Ex NestedLoopsMethods 6. Vowels Count.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 6. Vowels Count\Ex NestedLoopsMethods 6. Vowels Count\obj\Debug\net6.0\ref\Ex NestedLoopsMethods 6. Vowels Count.dll

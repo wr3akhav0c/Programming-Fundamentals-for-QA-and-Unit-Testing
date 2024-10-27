@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays\Arrays\bin\Debug\net6.0\Arrays.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays\Arrays\bin\Debug\net6.0\Arrays.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays\Arrays\bin\Debug\net6.0\Arrays.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays\Arrays\bin\Debug\net6.0\Arrays.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays\Arrays\obj\Debug\net6.0\Arrays.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays\Arrays\obj\Debug\net6.0\Arrays.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays\Arrays\obj\Debug\net6.0\ref\Arrays.dll

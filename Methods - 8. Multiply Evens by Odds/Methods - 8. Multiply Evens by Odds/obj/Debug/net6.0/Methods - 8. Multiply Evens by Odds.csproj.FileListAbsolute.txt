@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 8. Multiply Evens by Odds\Methods - 8. Multiply Evens by Odds\obj\Debug\net6.0\Methods - 8. Multiply Evens by Odds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 8. Multiply Evens by Odds\Methods - 8. Multiply Evens by Odds\obj\Debug\net6.0\Methods - 8. Multiply Evens by Odds.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 8. Multiply Evens by Odds\Methods - 8. Multiply Evens by Odds\obj\Debug\net6.0\Methods - 8. Multiply Evens by Odds.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 8. Multiply Evens by Odds\Methods - 8. Multiply Evens by Odds\obj\Debug\net6.0\Methods - 8. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 8. Multiply Evens by Odds\Methods - 8. Multiply Evens by Odds\bin\Debug\net6.0\Methods - 8. Multiply Evens by Odds.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 8. Multiply Evens by Odds\Methods - 8. Multiply Evens by Odds\bin\Debug\net6.0\Methods - 8. Multiply Evens by Odds.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 8. Multiply Evens by Odds\Methods - 8. Multiply Evens by Odds\bin\Debug\net6.0\Methods - 8. Multiply Evens by Odds.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 8. Multiply Evens by Odds\Methods - 8. Multiply Evens by Odds\bin\Debug\net6.0\Methods - 8. Multiply Evens by Odds.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 8. Multiply Evens by Odds\Methods - 8. Multiply Evens by Odds\bin\Debug\net6.0\Methods - 8. Multiply Evens by Odds.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 8. Multiply Evens by Odds\Methods - 8. Multiply Evens by Odds\obj\Debug\net6.0\Methods - 8. Multiply Evens by Odds.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 8. Multiply Evens by Odds\Methods - 8. Multiply Evens by Odds\obj\Debug\net6.0\refint\Methods - 8. Multiply Evens by Odds.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 8. Multiply Evens by Odds\Methods - 8. Multiply Evens by Odds\obj\Debug\net6.0\Methods - 8. Multiply Evens by Odds.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 8. Multiply Evens by Odds\Methods - 8. Multiply Evens by Odds\obj\Debug\net6.0\Methods - 8. Multiply Evens by Odds.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 8. Multiply Evens by Odds\Methods - 8. Multiply Evens by Odds\obj\Debug\net6.0\ref\Methods - 8. Multiply Evens by Odds.dll

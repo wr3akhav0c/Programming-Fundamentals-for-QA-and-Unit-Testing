@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 04. Building\Nested Loops - 04. Building\bin\Debug\net6.0\Nested Loops - 04. Building.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 04. Building\Nested Loops - 04. Building\bin\Debug\net6.0\Nested Loops - 04. Building.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 04. Building\Nested Loops - 04. Building\bin\Debug\net6.0\Nested Loops - 04. Building.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 04. Building\Nested Loops - 04. Building\bin\Debug\net6.0\Nested Loops - 04. Building.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 04. Building\Nested Loops - 04. Building\bin\Debug\net6.0\Nested Loops - 04. Building.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 04. Building\Nested Loops - 04. Building\obj\Debug\net6.0\Nested Loops - 04. Building.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 04. Building\Nested Loops - 04. Building\obj\Debug\net6.0\Nested Loops - 04. Building.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 04. Building\Nested Loops - 04. Building\obj\Debug\net6.0\Nested Loops - 04. Building.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 04. Building\Nested Loops - 04. Building\obj\Debug\net6.0\Nested Loops - 04. Building.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 04. Building\Nested Loops - 04. Building\obj\Debug\net6.0\Nested Loops - 04. Building.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 04. Building\Nested Loops - 04. Building\obj\Debug\net6.0\refint\Nested Loops - 04. Building.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 04. Building\Nested Loops - 04. Building\obj\Debug\net6.0\Nested Loops - 04. Building.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 04. Building\Nested Loops - 04. Building\obj\Debug\net6.0\Nested Loops - 04. Building.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 04. Building\Nested Loops - 04. Building\obj\Debug\net6.0\ref\Nested Loops - 04. Building.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested Loops - 6. Travel Savings", "Nested Loops - 6. Travel Savings\Nested Loops - 6. Travel Savings.csproj", "{EFCE444B-41B4-4B7A-8170-8A8333F02749}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFCE444B-41B4-4B7A-8170-8A8333F02749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFCE444B-41B4-4B7A-8170-8A8333F02749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFCE444B-41B4-4B7A-8170-8A8333F02749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFCE444B-41B4-4B7A-8170-8A8333F02749}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {124C9D03-0CD7-49FB-B4E7-0ECE146A5460}
+	EndGlobalSection
+EndGlobal

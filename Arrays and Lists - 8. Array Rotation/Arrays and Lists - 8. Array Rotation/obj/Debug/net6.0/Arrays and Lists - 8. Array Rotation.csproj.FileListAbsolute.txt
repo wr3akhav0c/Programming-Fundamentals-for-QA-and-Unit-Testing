@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 8. Array Rotation\Arrays and Lists - 8. Array Rotation\bin\Debug\net6.0\Arrays and Lists - 8. Array Rotation.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 8. Array Rotation\Arrays and Lists - 8. Array Rotation\bin\Debug\net6.0\Arrays and Lists - 8. Array Rotation.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 8. Array Rotation\Arrays and Lists - 8. Array Rotation\bin\Debug\net6.0\Arrays and Lists - 8. Array Rotation.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 8. Array Rotation\Arrays and Lists - 8. Array Rotation\bin\Debug\net6.0\Arrays and Lists - 8. Array Rotation.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 8. Array Rotation\Arrays and Lists - 8. Array Rotation\bin\Debug\net6.0\Arrays and Lists - 8. Array Rotation.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 8. Array Rotation\Arrays and Lists - 8. Array Rotation\obj\Debug\net6.0\Arrays and Lists - 8. Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 8. Array Rotation\Arrays and Lists - 8. Array Rotation\obj\Debug\net6.0\Arrays and Lists - 8. Array Rotation.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 8. Array Rotation\Arrays and Lists - 8. Array Rotation\obj\Debug\net6.0\Arrays and Lists - 8. Array Rotation.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 8. Array Rotation\Arrays and Lists - 8. Array Rotation\obj\Debug\net6.0\Arrays and Lists - 8. Array Rotation.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 8. Array Rotation\Arrays and Lists - 8. Array Rotation\obj\Debug\net6.0\Arrays and Lists - 8. Array Rotation.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 8. Array Rotation\Arrays and Lists - 8. Array Rotation\obj\Debug\net6.0\refint\Arrays and Lists - 8. Array Rotation.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 8. Array Rotation\Arrays and Lists - 8. Array Rotation\obj\Debug\net6.0\Arrays and Lists - 8. Array Rotation.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 8. Array Rotation\Arrays and Lists - 8. Array Rotation\obj\Debug\net6.0\Arrays and Lists - 8. Array Rotation.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 8. Array Rotation\Arrays and Lists - 8. Array Rotation\obj\Debug\net6.0\ref\Arrays and Lists - 8. Array Rotation.dll

@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 6. Travel Savings\Nested Loops - 6. Travel Savings\bin\Debug\net6.0\Nested Loops - 6. Travel Savings.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 6. Travel Savings\Nested Loops - 6. Travel Savings\bin\Debug\net6.0\Nested Loops - 6. Travel Savings.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 6. Travel Savings\Nested Loops - 6. Travel Savings\bin\Debug\net6.0\Nested Loops - 6. Travel Savings.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 6. Travel Savings\Nested Loops - 6. Travel Savings\bin\Debug\net6.0\Nested Loops - 6. Travel Savings.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 6. Travel Savings\Nested Loops - 6. Travel Savings\bin\Debug\net6.0\Nested Loops - 6. Travel Savings.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 6. Travel Savings\Nested Loops - 6. Travel Savings\obj\Debug\net6.0\Nested Loops - 6. Travel Savings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 6. Travel Savings\Nested Loops - 6. Travel Savings\obj\Debug\net6.0\Nested Loops - 6. Travel Savings.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 6. Travel Savings\Nested Loops - 6. Travel Savings\obj\Debug\net6.0\Nested Loops - 6. Travel Savings.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 6. Travel Savings\Nested Loops - 6. Travel Savings\obj\Debug\net6.0\Nested Loops - 6. Travel Savings.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 6. Travel Savings\Nested Loops - 6. Travel Savings\obj\Debug\net6.0\Nested Loops - 6. Travel Savings.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 6. Travel Savings\Nested Loops - 6. Travel Savings\obj\Debug\net6.0\refint\Nested Loops - 6. Travel Savings.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 6. Travel Savings\Nested Loops - 6. Travel Savings\obj\Debug\net6.0\Nested Loops - 6. Travel Savings.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 6. Travel Savings\Nested Loops - 6. Travel Savings\obj\Debug\net6.0\Nested Loops - 6. Travel Savings.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Nested Loops - 6. Travel Savings\Nested Loops - 6. Travel Savings\obj\Debug\net6.0\ref\Nested Loops - 6. Travel Savings.dll

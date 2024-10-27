@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 3. Reverse an Array\Arrays - 3. Reverse an Array\bin\Debug\net6.0\Arrays - 3. Reverse an Array.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 3. Reverse an Array\Arrays - 3. Reverse an Array\bin\Debug\net6.0\Arrays - 3. Reverse an Array.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 3. Reverse an Array\Arrays - 3. Reverse an Array\bin\Debug\net6.0\Arrays - 3. Reverse an Array.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 3. Reverse an Array\Arrays - 3. Reverse an Array\bin\Debug\net6.0\Arrays - 3. Reverse an Array.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 3. Reverse an Array\Arrays - 3. Reverse an Array\bin\Debug\net6.0\Arrays - 3. Reverse an Array.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 3. Reverse an Array\Arrays - 3. Reverse an Array\obj\Debug\net6.0\Arrays - 3. Reverse an Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 3. Reverse an Array\Arrays - 3. Reverse an Array\obj\Debug\net6.0\Arrays - 3. Reverse an Array.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 3. Reverse an Array\Arrays - 3. Reverse an Array\obj\Debug\net6.0\Arrays - 3. Reverse an Array.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 3. Reverse an Array\Arrays - 3. Reverse an Array\obj\Debug\net6.0\Arrays - 3. Reverse an Array.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 3. Reverse an Array\Arrays - 3. Reverse an Array\obj\Debug\net6.0\Arrays - 3. Reverse an Array.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 3. Reverse an Array\Arrays - 3. Reverse an Array\obj\Debug\net6.0\refint\Arrays - 3. Reverse an Array.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 3. Reverse an Array\Arrays - 3. Reverse an Array\obj\Debug\net6.0\Arrays - 3. Reverse an Array.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 3. Reverse an Array\Arrays - 3. Reverse an Array\obj\Debug\net6.0\Arrays - 3. Reverse an Array.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 3. Reverse an Array\Arrays - 3. Reverse an Array\obj\Debug\net6.0\ref\Arrays - 3. Reverse an Array.dll

@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 02. Grades\Methods - 02. Grades\bin\Debug\net6.0\Methods - 02. Grades.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 02. Grades\Methods - 02. Grades\bin\Debug\net6.0\Methods - 02. Grades.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 02. Grades\Methods - 02. Grades\bin\Debug\net6.0\Methods - 02. Grades.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 02. Grades\Methods - 02. Grades\bin\Debug\net6.0\Methods - 02. Grades.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 02. Grades\Methods - 02. Grades\bin\Debug\net6.0\Methods - 02. Grades.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 02. Grades\Methods - 02. Grades\obj\Debug\net6.0\Methods - 02. Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 02. Grades\Methods - 02. Grades\obj\Debug\net6.0\Methods - 02. Grades.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 02. Grades\Methods - 02. Grades\obj\Debug\net6.0\Methods - 02. Grades.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 02. Grades\Methods - 02. Grades\obj\Debug\net6.0\Methods - 02. Grades.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 02. Grades\Methods - 02. Grades\obj\Debug\net6.0\Methods - 02. Grades.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 02. Grades\Methods - 02. Grades\obj\Debug\net6.0\refint\Methods - 02. Grades.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 02. Grades\Methods - 02. Grades\obj\Debug\net6.0\Methods - 02. Grades.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 02. Grades\Methods - 02. Grades\obj\Debug\net6.0\Methods - 02. Grades.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 02. Grades\Methods - 02. Grades\obj\Debug\net6.0\ref\Methods - 02. Grades.dll

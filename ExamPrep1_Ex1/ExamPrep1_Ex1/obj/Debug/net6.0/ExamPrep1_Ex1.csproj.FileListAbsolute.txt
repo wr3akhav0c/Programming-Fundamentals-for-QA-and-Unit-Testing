@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\ExamPrep1_Ex1\ExamPrep1_Ex1\obj\Debug\net6.0\ExamPrep1_Ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\ExamPrep1_Ex1\ExamPrep1_Ex1\obj\Debug\net6.0\ExamPrep1_Ex1.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\ExamPrep1_Ex1\ExamPrep1_Ex1\obj\Debug\net6.0\ExamPrep1_Ex1.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\ExamPrep1_Ex1\ExamPrep1_Ex1\obj\Debug\net6.0\ExamPrep1_Ex1.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\ExamPrep1_Ex1\ExamPrep1_Ex1\bin\Debug\net6.0\ExamPrep1_Ex1.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\ExamPrep1_Ex1\ExamPrep1_Ex1\bin\Debug\net6.0\ExamPrep1_Ex1.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\ExamPrep1_Ex1\ExamPrep1_Ex1\bin\Debug\net6.0\ExamPrep1_Ex1.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\ExamPrep1_Ex1\ExamPrep1_Ex1\bin\Debug\net6.0\ExamPrep1_Ex1.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\ExamPrep1_Ex1\ExamPrep1_Ex1\bin\Debug\net6.0\ExamPrep1_Ex1.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\ExamPrep1_Ex1\ExamPrep1_Ex1\obj\Debug\net6.0\ExamPrep1_Ex1.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\ExamPrep1_Ex1\ExamPrep1_Ex1\obj\Debug\net6.0\refint\ExamPrep1_Ex1.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\ExamPrep1_Ex1\ExamPrep1_Ex1\obj\Debug\net6.0\ExamPrep1_Ex1.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\ExamPrep1_Ex1\ExamPrep1_Ex1\obj\Debug\net6.0\ExamPrep1_Ex1.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\ExamPrep1_Ex1\ExamPrep1_Ex1\obj\Debug\net6.0\ref\ExamPrep1_Ex1.dll

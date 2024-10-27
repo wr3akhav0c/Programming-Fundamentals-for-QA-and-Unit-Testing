@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 3. Merging Lists\Arrays and Lists - 3. Merging Lists\bin\Debug\net6.0\Arrays and Lists - 3. Merging Lists.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 3. Merging Lists\Arrays and Lists - 3. Merging Lists\bin\Debug\net6.0\Arrays and Lists - 3. Merging Lists.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 3. Merging Lists\Arrays and Lists - 3. Merging Lists\bin\Debug\net6.0\Arrays and Lists - 3. Merging Lists.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 3. Merging Lists\Arrays and Lists - 3. Merging Lists\bin\Debug\net6.0\Arrays and Lists - 3. Merging Lists.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 3. Merging Lists\Arrays and Lists - 3. Merging Lists\bin\Debug\net6.0\Arrays and Lists - 3. Merging Lists.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 3. Merging Lists\Arrays and Lists - 3. Merging Lists\obj\Debug\net6.0\Arrays and Lists - 3. Merging Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 3. Merging Lists\Arrays and Lists - 3. Merging Lists\obj\Debug\net6.0\Arrays and Lists - 3. Merging Lists.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 3. Merging Lists\Arrays and Lists - 3. Merging Lists\obj\Debug\net6.0\Arrays and Lists - 3. Merging Lists.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 3. Merging Lists\Arrays and Lists - 3. Merging Lists\obj\Debug\net6.0\Arrays and Lists - 3. Merging Lists.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 3. Merging Lists\Arrays and Lists - 3. Merging Lists\obj\Debug\net6.0\Arrays and Lists - 3. Merging Lists.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 3. Merging Lists\Arrays and Lists - 3. Merging Lists\obj\Debug\net6.0\refint\Arrays and Lists - 3. Merging Lists.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 3. Merging Lists\Arrays and Lists - 3. Merging Lists\obj\Debug\net6.0\Arrays and Lists - 3. Merging Lists.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 3. Merging Lists\Arrays and Lists - 3. Merging Lists\obj\Debug\net6.0\Arrays and Lists - 3. Merging Lists.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays and Lists - 3. Merging Lists\Arrays and Lists - 3. Merging Lists\obj\Debug\net6.0\ref\Arrays and Lists - 3. Merging Lists.dll

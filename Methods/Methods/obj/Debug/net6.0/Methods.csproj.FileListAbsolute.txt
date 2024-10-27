@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods\Methods\bin\Debug\net6.0\Methods.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods\Methods\bin\Debug\net6.0\Methods.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods\Methods\bin\Debug\net6.0\Methods.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods\Methods\bin\Debug\net6.0\Methods.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods\Methods\obj\Debug\net6.0\Methods.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods\Methods\obj\Debug\net6.0\refint\Methods.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods\Methods\obj\Debug\net6.0\Methods.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods\Methods\obj\Debug\net6.0\ref\Methods.dll

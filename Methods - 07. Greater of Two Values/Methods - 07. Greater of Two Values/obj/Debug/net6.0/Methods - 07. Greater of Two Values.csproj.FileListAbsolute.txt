@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 07. Greater of Two Values\Methods - 07. Greater of Two Values\bin\Debug\net6.0\Methods - 07. Greater of Two Values.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 07. Greater of Two Values\Methods - 07. Greater of Two Values\bin\Debug\net6.0\Methods - 07. Greater of Two Values.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 07. Greater of Two Values\Methods - 07. Greater of Two Values\bin\Debug\net6.0\Methods - 07. Greater of Two Values.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 07. Greater of Two Values\Methods - 07. Greater of Two Values\bin\Debug\net6.0\Methods - 07. Greater of Two Values.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 07. Greater of Two Values\Methods - 07. Greater of Two Values\bin\Debug\net6.0\Methods - 07. Greater of Two Values.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 07. Greater of Two Values\Methods - 07. Greater of Two Values\obj\Debug\net6.0\Methods - 07. Greater of Two Values.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 07. Greater of Two Values\Methods - 07. Greater of Two Values\obj\Debug\net6.0\Methods - 07. Greater of Two Values.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 07. Greater of Two Values\Methods - 07. Greater of Two Values\obj\Debug\net6.0\Methods - 07. Greater of Two Values.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 07. Greater of Two Values\Methods - 07. Greater of Two Values\obj\Debug\net6.0\Methods - 07. Greater of Two Values.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 07. Greater of Two Values\Methods - 07. Greater of Two Values\obj\Debug\net6.0\Methods - 07. Greater of Two Values.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 07. Greater of Two Values\Methods - 07. Greater of Two Values\obj\Debug\net6.0\refint\Methods - 07. Greater of Two Values.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 07. Greater of Two Values\Methods - 07. Greater of Two Values\obj\Debug\net6.0\Methods - 07. Greater of Two Values.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 07. Greater of Two Values\Methods - 07. Greater of Two Values\obj\Debug\net6.0\Methods - 07. Greater of Two Values.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 07. Greater of Two Values\Methods - 07. Greater of Two Values\obj\Debug\net6.0\ref\Methods - 07. Greater of Two Values.dll

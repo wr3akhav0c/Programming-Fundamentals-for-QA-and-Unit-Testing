@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 1. Change List\Lists - 1. Change List\obj\Debug\net6.0\Lists - 1. Change List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 1. Change List\Lists - 1. Change List\obj\Debug\net6.0\Lists - 1. Change List.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 1. Change List\Lists - 1. Change List\obj\Debug\net6.0\Lists - 1. Change List.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 1. Change List\Lists - 1. Change List\obj\Debug\net6.0\Lists - 1. Change List.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 1. Change List\Lists - 1. Change List\bin\Debug\net6.0\Lists - 1. Change List.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 1. Change List\Lists - 1. Change List\bin\Debug\net6.0\Lists - 1. Change List.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 1. Change List\Lists - 1. Change List\bin\Debug\net6.0\Lists - 1. Change List.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 1. Change List\Lists - 1. Change List\bin\Debug\net6.0\Lists - 1. Change List.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 1. Change List\Lists - 1. Change List\bin\Debug\net6.0\Lists - 1. Change List.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 1. Change List\Lists - 1. Change List\obj\Debug\net6.0\Lists - 1. Change List.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 1. Change List\Lists - 1. Change List\obj\Debug\net6.0\refint\Lists - 1. Change List.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 1. Change List\Lists - 1. Change List\obj\Debug\net6.0\Lists - 1. Change List.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 1. Change List\Lists - 1. Change List\obj\Debug\net6.0\Lists - 1. Change List.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Lists - 1. Change List\Lists - 1. Change List\obj\Debug\net6.0\ref\Lists - 1. Change List.dll

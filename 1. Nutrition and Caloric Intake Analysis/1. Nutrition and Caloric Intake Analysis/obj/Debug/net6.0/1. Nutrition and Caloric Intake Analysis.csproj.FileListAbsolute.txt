@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\1. Nutrition and Caloric Intake Analysis\1. Nutrition and Caloric Intake Analysis\bin\Debug\net6.0\1. Nutrition and Caloric Intake Analysis.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\1. Nutrition and Caloric Intake Analysis\1. Nutrition and Caloric Intake Analysis\bin\Debug\net6.0\1. Nutrition and Caloric Intake Analysis.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\1. Nutrition and Caloric Intake Analysis\1. Nutrition and Caloric Intake Analysis\bin\Debug\net6.0\1. Nutrition and Caloric Intake Analysis.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\1. Nutrition and Caloric Intake Analysis\1. Nutrition and Caloric Intake Analysis\bin\Debug\net6.0\1. Nutrition and Caloric Intake Analysis.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\1. Nutrition and Caloric Intake Analysis\1. Nutrition and Caloric Intake Analysis\bin\Debug\net6.0\1. Nutrition and Caloric Intake Analysis.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\1. Nutrition and Caloric Intake Analysis\1. Nutrition and Caloric Intake Analysis\obj\Debug\net6.0\1. Nutrition and Caloric Intake Analysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\1. Nutrition and Caloric Intake Analysis\1. Nutrition and Caloric Intake Analysis\obj\Debug\net6.0\1. Nutrition and Caloric Intake Analysis.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\1. Nutrition and Caloric Intake Analysis\1. Nutrition and Caloric Intake Analysis\obj\Debug\net6.0\1. Nutrition and Caloric Intake Analysis.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\1. Nutrition and Caloric Intake Analysis\1. Nutrition and Caloric Intake Analysis\obj\Debug\net6.0\1. Nutrition and Caloric Intake Analysis.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\1. Nutrition and Caloric Intake Analysis\1. Nutrition and Caloric Intake Analysis\obj\Debug\net6.0\1. Nutrition and Caloric Intake Analysis.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\1. Nutrition and Caloric Intake Analysis\1. Nutrition and Caloric Intake Analysis\obj\Debug\net6.0\refint\1. Nutrition and Caloric Intake Analysis.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\1. Nutrition and Caloric Intake Analysis\1. Nutrition and Caloric Intake Analysis\obj\Debug\net6.0\1. Nutrition and Caloric Intake Analysis.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\1. Nutrition and Caloric Intake Analysis\1. Nutrition and Caloric Intake Analysis\obj\Debug\net6.0\1. Nutrition and Caloric Intake Analysis.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\1. Nutrition and Caloric Intake Analysis\1. Nutrition and Caloric Intake Analysis\obj\Debug\net6.0\ref\1. Nutrition and Caloric Intake Analysis.dll

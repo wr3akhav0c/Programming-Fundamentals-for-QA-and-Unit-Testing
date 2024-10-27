@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 7. Factorial Division\Ex NestedLoopsMethods 7. Factorial Division\obj\Debug\net6.0\Ex NestedLoopsMethods 7. Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 7. Factorial Division\Ex NestedLoopsMethods 7. Factorial Division\obj\Debug\net6.0\Ex NestedLoopsMethods 7. Factorial Division.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 7. Factorial Division\Ex NestedLoopsMethods 7. Factorial Division\obj\Debug\net6.0\Ex NestedLoopsMethods 7. Factorial Division.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 7. Factorial Division\Ex NestedLoopsMethods 7. Factorial Division\obj\Debug\net6.0\Ex NestedLoopsMethods 7. Factorial Division.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 7. Factorial Division\Ex NestedLoopsMethods 7. Factorial Division\bin\Debug\net6.0\Ex NestedLoopsMethods 7. Factorial Division.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 7. Factorial Division\Ex NestedLoopsMethods 7. Factorial Division\bin\Debug\net6.0\Ex NestedLoopsMethods 7. Factorial Division.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 7. Factorial Division\Ex NestedLoopsMethods 7. Factorial Division\bin\Debug\net6.0\Ex NestedLoopsMethods 7. Factorial Division.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 7. Factorial Division\Ex NestedLoopsMethods 7. Factorial Division\bin\Debug\net6.0\Ex NestedLoopsMethods 7. Factorial Division.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 7. Factorial Division\Ex NestedLoopsMethods 7. Factorial Division\bin\Debug\net6.0\Ex NestedLoopsMethods 7. Factorial Division.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 7. Factorial Division\Ex NestedLoopsMethods 7. Factorial Division\obj\Debug\net6.0\Ex NestedLoopsMethods 7. Factorial Division.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 7. Factorial Division\Ex NestedLoopsMethods 7. Factorial Division\obj\Debug\net6.0\refint\Ex NestedLoopsMethods 7. Factorial Division.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 7. Factorial Division\Ex NestedLoopsMethods 7. Factorial Division\obj\Debug\net6.0\Ex NestedLoopsMethods 7. Factorial Division.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 7. Factorial Division\Ex NestedLoopsMethods 7. Factorial Division\obj\Debug\net6.0\Ex NestedLoopsMethods 7. Factorial Division.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 7. Factorial Division\Ex NestedLoopsMethods 7. Factorial Division\obj\Debug\net6.0\ref\Ex NestedLoopsMethods 7. Factorial Division.dll

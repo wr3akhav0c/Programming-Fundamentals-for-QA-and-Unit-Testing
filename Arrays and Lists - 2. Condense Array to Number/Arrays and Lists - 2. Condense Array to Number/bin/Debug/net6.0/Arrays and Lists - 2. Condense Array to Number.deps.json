@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Arrays and Lists - 2. Condense Array to Number/1.0.0": {
+        "runtime": {
+          "Arrays and Lists - 2. Condense Array to Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrays and Lists - 2. Condense Array to Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 1 Sign of integer numbers\Methods - 1 Sign of integer numbers\bin\Debug\net6.0\Methods - 1 Sign of integer numbers.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 1 Sign of integer numbers\Methods - 1 Sign of integer numbers\bin\Debug\net6.0\Methods - 1 Sign of integer numbers.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 1 Sign of integer numbers\Methods - 1 Sign of integer numbers\bin\Debug\net6.0\Methods - 1 Sign of integer numbers.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 1 Sign of integer numbers\Methods - 1 Sign of integer numbers\bin\Debug\net6.0\Methods - 1 Sign of integer numbers.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 1 Sign of integer numbers\Methods - 1 Sign of integer numbers\bin\Debug\net6.0\Methods - 1 Sign of integer numbers.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 1 Sign of integer numbers\Methods - 1 Sign of integer numbers\obj\Debug\net6.0\Methods - 1 Sign of integer numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 1 Sign of integer numbers\Methods - 1 Sign of integer numbers\obj\Debug\net6.0\Methods - 1 Sign of integer numbers.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 1 Sign of integer numbers\Methods - 1 Sign of integer numbers\obj\Debug\net6.0\Methods - 1 Sign of integer numbers.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 1 Sign of integer numbers\Methods - 1 Sign of integer numbers\obj\Debug\net6.0\Methods - 1 Sign of integer numbers.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 1 Sign of integer numbers\Methods - 1 Sign of integer numbers\obj\Debug\net6.0\Methods - 1 Sign of integer numbers.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 1 Sign of integer numbers\Methods - 1 Sign of integer numbers\obj\Debug\net6.0\refint\Methods - 1 Sign of integer numbers.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 1 Sign of integer numbers\Methods - 1 Sign of integer numbers\obj\Debug\net6.0\Methods - 1 Sign of integer numbers.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 1 Sign of integer numbers\Methods - 1 Sign of integer numbers\obj\Debug\net6.0\Methods - 1 Sign of integer numbers.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 1 Sign of integer numbers\Methods - 1 Sign of integer numbers\obj\Debug\net6.0\ref\Methods - 1 Sign of integer numbers.dll

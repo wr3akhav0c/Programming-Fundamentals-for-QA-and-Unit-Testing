@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 6 Math Power\Methods - 6 Math Power\bin\Debug\net6.0\Methods - 6 Math Power.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 6 Math Power\Methods - 6 Math Power\bin\Debug\net6.0\Methods - 6 Math Power.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 6 Math Power\Methods - 6 Math Power\bin\Debug\net6.0\Methods - 6 Math Power.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 6 Math Power\Methods - 6 Math Power\bin\Debug\net6.0\Methods - 6 Math Power.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 6 Math Power\Methods - 6 Math Power\bin\Debug\net6.0\Methods - 6 Math Power.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 6 Math Power\Methods - 6 Math Power\obj\Debug\net6.0\Methods - 6 Math Power.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 6 Math Power\Methods - 6 Math Power\obj\Debug\net6.0\Methods - 6 Math Power.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 6 Math Power\Methods - 6 Math Power\obj\Debug\net6.0\Methods - 6 Math Power.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 6 Math Power\Methods - 6 Math Power\obj\Debug\net6.0\Methods - 6 Math Power.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 6 Math Power\Methods - 6 Math Power\obj\Debug\net6.0\Methods - 6 Math Power.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 6 Math Power\Methods - 6 Math Power\obj\Debug\net6.0\refint\Methods - 6 Math Power.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 6 Math Power\Methods - 6 Math Power\obj\Debug\net6.0\Methods - 6 Math Power.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 6 Math Power\Methods - 6 Math Power\obj\Debug\net6.0\Methods - 6 Math Power.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Methods - 6 Math Power\Methods - 6 Math Power\obj\Debug\net6.0\ref\Methods - 6 Math Power.dll

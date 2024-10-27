@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex NestedLoopsMethods 3. Unique PIN Codes", "Ex NestedLoopsMethods 3. Unique PIN Codes\Ex NestedLoopsMethods 3. Unique PIN Codes.csproj", "{5DF0E9A4-1543-4D38-B40B-BBA9A73BB5E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex NestedLoopsMethods 4. Letter Combinations", "..\Ex NestedLoopsMethods 4. Letter Combinations\Ex NestedLoopsMethods 4. Letter Combinations.csproj", "{D199708B-4332-4E41-9382-9E2E09B926AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DF0E9A4-1543-4D38-B40B-BBA9A73BB5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF0E9A4-1543-4D38-B40B-BBA9A73BB5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF0E9A4-1543-4D38-B40B-BBA9A73BB5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF0E9A4-1543-4D38-B40B-BBA9A73BB5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D199708B-4332-4E41-9382-9E2E09B926AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D199708B-4332-4E41-9382-9E2E09B926AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D199708B-4332-4E41-9382-9E2E09B926AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D199708B-4332-4E41-9382-9E2E09B926AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7DEAF97-B3F7-4819-A11D-CC039F71B9A1}
+	EndGlobalSection
+EndGlobal

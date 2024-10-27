@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercise- Nested Loops and Methods 2. Magic Numbers/1.0.0": {
+        "runtime": {
+          "Exercise- Nested Loops and Methods 2. Magic Numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise- Nested Loops and Methods 2. Magic Numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

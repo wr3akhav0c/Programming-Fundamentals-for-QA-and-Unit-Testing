@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 6. Common Elements\Arrays - 6. Common Elements\bin\Debug\net6.0\Arrays - 6. Common Elements.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 6. Common Elements\Arrays - 6. Common Elements\bin\Debug\net6.0\Arrays - 6. Common Elements.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 6. Common Elements\Arrays - 6. Common Elements\bin\Debug\net6.0\Arrays - 6. Common Elements.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 6. Common Elements\Arrays - 6. Common Elements\bin\Debug\net6.0\Arrays - 6. Common Elements.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 6. Common Elements\Arrays - 6. Common Elements\bin\Debug\net6.0\Arrays - 6. Common Elements.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 6. Common Elements\Arrays - 6. Common Elements\obj\Debug\net6.0\Arrays - 6. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 6. Common Elements\Arrays - 6. Common Elements\obj\Debug\net6.0\Arrays - 6. Common Elements.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 6. Common Elements\Arrays - 6. Common Elements\obj\Debug\net6.0\Arrays - 6. Common Elements.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 6. Common Elements\Arrays - 6. Common Elements\obj\Debug\net6.0\Arrays - 6. Common Elements.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 6. Common Elements\Arrays - 6. Common Elements\obj\Debug\net6.0\Arrays - 6. Common Elements.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 6. Common Elements\Arrays - 6. Common Elements\obj\Debug\net6.0\refint\Arrays - 6. Common Elements.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 6. Common Elements\Arrays - 6. Common Elements\obj\Debug\net6.0\Arrays - 6. Common Elements.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 6. Common Elements\Arrays - 6. Common Elements\obj\Debug\net6.0\Arrays - 6. Common Elements.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Arrays - 6. Common Elements\Arrays - 6. Common Elements\obj\Debug\net6.0\ref\Arrays - 6. Common Elements.dll

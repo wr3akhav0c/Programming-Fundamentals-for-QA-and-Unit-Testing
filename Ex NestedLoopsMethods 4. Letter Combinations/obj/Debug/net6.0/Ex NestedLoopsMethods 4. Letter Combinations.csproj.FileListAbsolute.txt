@@ -1,0 +1,14 @@
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 4. Letter Combinations\bin\Debug\net6.0\Ex NestedLoopsMethods 4. Letter Combinations.exe
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 4. Letter Combinations\bin\Debug\net6.0\Ex NestedLoopsMethods 4. Letter Combinations.deps.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 4. Letter Combinations\bin\Debug\net6.0\Ex NestedLoopsMethods 4. Letter Combinations.runtimeconfig.json
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 4. Letter Combinations\bin\Debug\net6.0\Ex NestedLoopsMethods 4. Letter Combinations.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 4. Letter Combinations\bin\Debug\net6.0\Ex NestedLoopsMethods 4. Letter Combinations.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 4. Letter Combinations\obj\Debug\net6.0\Ex NestedLoopsMethods 4. Letter Combinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 4. Letter Combinations\obj\Debug\net6.0\Ex NestedLoopsMethods 4. Letter Combinations.AssemblyInfoInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 4. Letter Combinations\obj\Debug\net6.0\Ex NestedLoopsMethods 4. Letter Combinations.AssemblyInfo.cs
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 4. Letter Combinations\obj\Debug\net6.0\Ex NestedLoopsMethods 4. Letter Combinations.csproj.CoreCompileInputs.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 4. Letter Combinations\obj\Debug\net6.0\Ex NestedLoopsMethods 4. Letter Combinations.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 4. Letter Combinations\obj\Debug\net6.0\refint\Ex NestedLoopsMethods 4. Letter Combinations.dll
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 4. Letter Combinations\obj\Debug\net6.0\Ex NestedLoopsMethods 4. Letter Combinations.pdb
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 4. Letter Combinations\obj\Debug\net6.0\Ex NestedLoopsMethods 4. Letter Combinations.genruntimeconfig.cache
+D:\Stuff\SoftUni QA\PROGRAMMING\Задачи\Ex NestedLoopsMethods 4. Letter Combinations\obj\Debug\net6.0\ref\Ex NestedLoopsMethods 4. Letter Combinations.dll
